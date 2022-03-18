@@ -655,13 +655,13 @@ img {
   overflow: initial;
 }
 
-.portfolio__techstack__data {
+/* .portfolio__techstack__data {
   display: flex;
   justify-content: space-between;
 }
 .portfolio__techstack__data li{
   list-style-type: square;
-}
+} */
 
 .portfolio__content {
   padding: 0 1.5rem;
