@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
 <h3 align="center">A passionate Full stack web developer from India</h3>
 
-- 🔭 I’m currently working on [My Portfolio](https://abhi-aro.herokuapp.com/)
+- 🔭 I’m currently working on [My Portfolio](https://abhi-aro.tech/)
 
 - 🌱 I’m currently learning [Full stack Web development](https://www.masaischool.com/)
 
-- 👨‍💻 All of my projects are available at [https://abhi-aro.herokuapp.com/](https://abhi-aro.herokuapp.com/)
+- 👨‍💻 All of my projects are available at [https://abhi-aro.tech/](https://abhi-aro.tech/)
 
 - 💬 Ask me about **react, JavaScript**
 
