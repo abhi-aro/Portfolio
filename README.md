@@ -11,16 +11,16 @@
 
 - 📫 How to reach me **abhiaro27@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qmAnxED3UiH-XqQoSgy4kJtAG0qxr5uB/view?usp=sharing](https://drive.google.com/file/d/1qmAnxED3UiH-XqQoSgy4kJtAG0qxr5uB/view?usp=sharing)
+- 📄 Know about my experiences [resume](https://abhi-aro.tech/assets/pdf/Abhishek%20CV.pdf)
 
 - ⚡ Fun fact **Mindset is more important than most people realise**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/prog_anon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prog_anon" height="30" width="40" /></a>
+<a href="https://twitter.com/cmplx_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prog_anon" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abhi-aro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhi-aro" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/iscar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="iscar_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/iscar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iscar" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/abhi_aro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="iscar_" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/abhi-aro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iscar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
