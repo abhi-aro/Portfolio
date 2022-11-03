@@ -1,16 +1,19 @@
 <h1 align="center">
 	Hi 👋, I'm
+	<a href="https://abhi-aro.tech" style="color:#3AC2DA;">
+		<span style="font-family:georgia,garamond,serif;">
+        	Abhishek
+    	</span>
+	</a>
 </h1>
 
 <p align="center">
 	<a href="https://abhi-aro.tech" style="color:#3AC2DA;">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Abhishek;Full+Stack+Developer;Fluent in JavaScript;Always%20learning%20new%20things&center=true&width=500&height=50">
+		<!-- <img src="https://readme-typing-svg.herokuapp.com?lines=Abhishek;Full+Stack+Developer;Fluent in JavaScript;Always%20learning%20new%20things&center=true&width=500&height=50"> -->
 	</a>
 </p>
 
 <img align="center" style="border-radius:40px;" src="./Readme/Readme.gif" alt="readme" />
-
-<br/>
 
 <h2>
 	<samp>
@@ -35,7 +38,6 @@
     	- <span style="color:#F9B; font-weight:bold;">ENN Beauty</span>
     	- </br>
     	</details>
-    </br>
 
 - 🌱 I’m currently working on
   <span style="color:orange;">
@@ -87,18 +89,18 @@
 	</samp>
 	<p align="center">
 		<a href="https://github.com/abhi-aro/">
-			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi-aro&langs_count=6&theme=algolia&layout=compact"
+			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi-aro&langs_count=6&theme=algolia&layout=compact&hide_border=true"
 			alt="abhi-aro :: overall Top Langs " />
 		</a>
 	</p>
 	<p align="center">
 		<a href="https://github.com/abhi-aro/">
-			<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=abhi-aro&show_icons=true&theme=algolia" />
-			<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi-aro&theme=algolia" />
+			<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=abhi-aro&show_icons=true&theme=algolia&hide_border=true" />
+			<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi-aro&theme=algolia&hide_border=true" />
 		</a>
 	</p>
 	<p align="center">
-		<img alt="abhi-aro's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=abhi-aro&custom_title=Abhishek's%20Contribution%20Graph&theme=react-dark" />
+		<img alt="abhi-aro's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=abhi-aro&custom_title=Abhishek's%20Contribution%20Graph&theme=react-dark&hide_border=true" />
 	</p>
 	<p align="center">
     	<img src="https://github-profile-trophy.vercel.app/?username=abhi-aro&layout=compact&theme=algolia" alt="abhi-aro" />
@@ -118,7 +120,7 @@
 	<img style="position:relative; left:-16px" height="200px" alt="GIF" src="./Readme/giphy.webp">
 
 ![Stalker Count](https://profile-counter.glitch.me/abhi-aro/count.svg)
-![snake](./Readme/snake.svg)
+<img style="background-color:black;" src="./Readme/snake.svg" />
 </div>
 
 </br>
@@ -159,3 +161,16 @@
 		</a>
 	</div>
 </p>
+
+</br>
+
+<div align="center">
+
+You have finally discovered my Github profile. <br>
+Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
+Ask me anything <a href="https://github.com/abhi-aro/abhi-aro/issues/new"><b>here</b></a><br>
+or <a href="mailto:abhiaro27@gmail.com"><b>email</b></a> me
+
+<i>Happy Coding!</i> 😊
+
+</div>
