@@ -1,32 +1,41 @@
 <h1 align="center">
 	Hi 👋, I'm
-	<a href="https://abhi-aro.tech" style="color:#3AC2DA;">
-		<span style="font-family:georgia,garamond,serif;">
-        	Abhishek
-    	</span>
-	</a>
 </h1>
 
-<h3 align="center">
-	<samp>
-    	A Passionate
-	    <span style="color:#44A7DF;">
-			Full Stack Developer
-		</span>
-    	from India
-	</samp>
-</h3>
+<p align="center">
+	<a href="https://abhi-aro.tech" style="color:#3AC2DA;">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Abhishek;Full+Stack+Developer;Fluent in JavaScript;Always%20learning%20new%20things&center=true&width=500&height=50">
+	</a>
+</p>
 
 <img align="center" style="border-radius:40px;" src="./Readme/Readme.gif" alt="readme" />
 
 <br/>
 
+<h2>
+	<samp>
+    	💁‍♂️ About Me
+	</samp>
+</h2>
+
 - 🏦 I’m currently working as a Full Stack Developer at
   [<span style="color:#5ED3F3;">**Vellvette Lifestyle Pvt. Ltd.**</span>](https://in.sugarcosmetics.com/)
-  Best known for
-  <span style="color:#F9B">
-  **Sugar Cosmetics**
-  </span>
+
+  - <details>
+    	<summary>
+    		Holding company and Best known for
+    		<span style="color:#F9B; font-weight:bold;">Sugar Cosmetics</span>
+    	</summary>
+    	- <span style="color:#F9B; font-weight:bold;">Fab Bag</span>
+    	- </br>
+    	- <span style="color:#F9B; font-weight:bold;">Sugar POP</span>
+    	- </br>
+    	- <span style="color:#F9B; font-weight:bold;">Quench Botanics</span>
+    	- </br>
+    	- <span style="color:#F9B; font-weight:bold;">ENN Beauty</span>
+    	- </br>
+    	</details>
+    </br>
 
 - 🌱 I’m currently working on
   <span style="color:orange;">
@@ -70,40 +79,35 @@
   **Mindset is more important than most people realize**
   </span>
 
-</br>
+---
 
-----
 <div>
 	<samp>
 	<h3 align="center">My GitHub Stats</h3>
 	</samp>
 	<p align="center">
 		<a href="https://github.com/abhi-aro/">
-			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi-aro&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
+			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi-aro&langs_count=6&theme=algolia&layout=compact"
 			alt="abhi-aro :: overall Top Langs " />
 		</a>
 	</p>
 	<p align="center">
 		<a href="https://github.com/abhi-aro/">
-			<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhi-aro&theme=gruvbox&layout=compact&hide_border=true"
-			alt="abhi-aro :: Top Langs by repo" />
-			<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhi-aro&theme=gruvbox&layout=compact&hide_border=true"
-			alt="abhi-aro :: Top Langs by commit" />
+			<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=abhi-aro&show_icons=true&theme=algolia" />
+			<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi-aro&theme=algolia" />
 		</a>
 	</p>
 	<p align="center">
-		<a href="https://github.com/abhi-aro/">
-			<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=abhi-aro&show_icons=true&theme=gruvbox&hide_border=true" />
-			<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi-aro&theme=gruvbox&hide_border=true" />
-		</a>
+		<img alt="abhi-aro's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=abhi-aro&custom_title=Abhishek's%20Contribution%20Graph&theme=react-dark" />
+	</p>
+	<p align="center">
+    	<img src="https://github-profile-trophy.vercel.app/?username=abhi-aro&layout=compact&theme=algolia" alt="abhi-aro" />
 	</p>
 </div>
 
-<div align="center">
+</br>
 
-![snake](./Readme/snake.svg)
-
-</div>
+---
 
 <div style="position:relative" align="center">
 	<h3 style="position:relative; top:70px;">
@@ -114,8 +118,10 @@
 	<img style="position:relative; left:-16px" height="200px" alt="GIF" src="./Readme/giphy.webp">
 
 ![Stalker Count](https://profile-counter.glitch.me/abhi-aro/count.svg)
-
+![snake](./Readme/snake.svg)
 </div>
+
+</br>
 
 <h3 align="center" >
 	<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">
