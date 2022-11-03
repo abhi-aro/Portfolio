@@ -7,13 +7,15 @@
 	</a>
 </h1>
 
-<h2 align="center">
-    A Passionate
-    <span style="color:#44A7DF;">
-		Full Stack Developer
-	</span>
-    from India 
-</h2>
+<h3 align="center">
+	<samp>
+    	A Passionate
+	    <span style="color:#44A7DF;">
+			Full Stack Developer
+		</span>
+    	from India
+	</samp>
+</h3>
 
 <img align="center" style="border-radius:40px;" src="./Readme/Readme.gif" alt="readme" />
 
@@ -23,7 +25,7 @@
   [<span style="color:#5ED3F3;">**Vellvette Lifestyle Pvt. Ltd.**</span>](https://in.sugarcosmetics.com/)
   Best known for
   <span style="color:#F9B">
-  **Sugar cosmetics**
+  **Sugar Cosmetics**
   </span>
 
 - 🌱 I’m currently working on
@@ -68,8 +70,47 @@
   **Mindset is more important than most people realize**
   </span>
 
+</br>
+
+----
+<div>
+	<samp>
+	<h3 align="center">My GitHub Stats</h3>
+	</samp>
+	<p align="center">
+		<a href="https://github.com/abhi-aro/">
+			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi-aro&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
+			alt="abhi-aro :: overall Top Langs " />
+		</a>
+	</p>
+	<p align="center">
+		<a href="https://github.com/abhi-aro/">
+			<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhi-aro&theme=gruvbox&layout=compact&hide_border=true"
+			alt="abhi-aro :: Top Langs by repo" />
+			<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhi-aro&theme=gruvbox&layout=compact&hide_border=true"
+			alt="abhi-aro :: Top Langs by commit" />
+		</a>
+	</p>
+	<p align="center">
+		<a href="https://github.com/abhi-aro/">
+			<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=abhi-aro&show_icons=true&theme=gruvbox&hide_border=true" />
+			<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi-aro&theme=gruvbox&hide_border=true" />
+		</a>
+	</p>
+</div>
+
+<div align="center">
+
+![snake](./Readme/snake.svg)
+
+</div>
+
 <div style="position:relative" align="center">
-	<h2 style="position:relative; top:70px;">Visitors</h2>
+	<h3 style="position:relative; top:70px;">
+		<samp>
+			Visitors
+		</samp>
+	</h3>
 	<img style="position:relative; left:-16px" height="200px" alt="GIF" src="./Readme/giphy.webp">
 
 ![Stalker Count](https://profile-counter.glitch.me/abhi-aro/count.svg)
