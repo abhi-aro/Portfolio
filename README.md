@@ -7,12 +7,6 @@
 	</a>
 </h1>
 
-<p align="center">
-	<a href="https://abhi-aro.tech" style="color:#3AC2DA;">
-		<!-- <img src="https://readme-typing-svg.herokuapp.com?lines=Abhishek;Full+Stack+Developer;Fluent in JavaScript;Always%20learning%20new%20things&center=true&width=500&height=50"> -->
-	</a>
-</p>
-
 <img align="center" style="border-radius:40px;" src="./Readme/Readme.gif" alt="readme" />
 
 <h2>
@@ -48,6 +42,12 @@
   <span style="color:orange;">
   **Freelancing**
   </span>
+
+- 🐱‍🚀 Looking for
+  <span style="color:orange;">
+  **Open Source**
+  </span>
+  projects to contribute to.
 
 - 👨‍💻 All of my live Projects can be accessed through
   [<span style="color:#5ED3F3;">**GitHub**</span>](https://github.com/abhi-aro/)
@@ -162,15 +162,8 @@
 	</div>
 </p>
 
-</br>
-
-<div align="center">
-
-You have finally discovered my Github profile. <br>
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything <a href="https://github.com/abhi-aro/abhi-aro/issues/new"><b>here</b></a><br>
-or <a href="mailto:abhiaro27@gmail.com"><b>email</b></a> me
-
-<i>Happy Coding!</i> 😊
-
-</div>
+<p align="center">
+	<img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+		<b><i align="center">Thought : "Not everything's a lesson, Ryan. Sometimes you just fail."</i></b>
+	<img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+</p>
