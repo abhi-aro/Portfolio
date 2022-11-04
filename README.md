@@ -15,6 +15,8 @@
 	</samp>
 </h2>
 
+<img align="right" width=200px height=200px src="./Readme/eatsleepcoderepeat.gif" />
+
 - 🏦 I’m currently working as a Full Stack Developer at
   [<span style="color:#5ED3F3;">**Vellvette Lifestyle Pvt. Ltd.**</span>](https://in.sugarcosmetics.com/)
 
@@ -126,12 +128,12 @@
 
 <h3 align="center" >
 	<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">
-	Connect with me 🤝
+	Connect with me <img src="./Readme/handshake.gif" height="20" />
 </h3>
 
 <p align="center">
-	<div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/abhi-aro/">
+	<div align="center"  class="icons-social">
+        <a target="_blank" href="https://www.linkedin.com/in/abhi-aro/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
 		</a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/abhi-aro">
@@ -153,10 +155,10 @@
 			<img src="https://img.icons8.com/plasticine/0.5x/resume.png">
 		</a>
 		<a style="margin-left: 5px;" target="_blank" href="https://www.hackerrank.com/abhi_aro">
-			<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhi_aro" height="50"/>
+		<img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="abhi_aro" height="52"/>
 		</a>
-		<a href="https://www.leetcode.com/abhi-aro" target="_blank">
-			<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhi-aro" height="45" width="70px"/>
+		<a style="margin-left: 5px;" href="https://www.leetcode.com/abhi-aro" target="_blank">
+			<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhi-aro" height="48" width="30" />
 		</a>
 	</div>
 </p>
