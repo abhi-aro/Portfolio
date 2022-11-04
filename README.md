@@ -23,13 +23,13 @@
     		Holding company and Best known for
     		<span style="color:#F9B; font-weight:bold;">Sugar Cosmetics</span>
     	</summary>
-    	- <span style="color:#F9B; font-weight:bold;">Fab Bag</span>
+    	- <span style="color:#F9B;"><b>Fab Bag</b></span>
     	- </br>
-    	- <span style="color:#F9B; font-weight:bold;">Sugar POP</span>
+    	- <span style="color:#F9B;"><b>Sugar POP</b></span>
     	- </br>
-    	- <span style="color:#F9B; font-weight:bold;">Quench Botanics</span>
+    	- <span style="color:#F9B;"><b>Quench Botanics</b></span>
     	- </br>
-    	- <span style="color:#F9B; font-weight:bold;">ENN Beauty</span>
+    	- <span style="color:#F9B;"><b>ENN Beauty</b></span>
     	- </br>
     	</details>
 
@@ -111,16 +111,15 @@
 
 ---
 
-<div style="position:relative" align="center">
-	<h3 style="position:relative; top:70px;">
+<div align="center">
+	<h3>
 		<samp>
 			Visitors
 		</samp>
 	</h3>
-	<img style="position:relative; left:-16px" height="200px" alt="GIF" src="./Readme/giphy.webp">
+	<img height="160px" alt="GIF" src="./Readme/giphy.webp">
 
 ![Stalker Count](https://profile-counter.glitch.me/abhi-aro/count.svg)
-<img style="background-color:black;" src="./Readme/snake.svg" />
 </div>
 
 </br>
