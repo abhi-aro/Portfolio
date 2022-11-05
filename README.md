@@ -109,8 +109,8 @@
 	<a href="https://www.linkedin.com/in/abhi-aro/"><b style="color:#5ED3F3">LinkedIn</b></a>
 </span>
 
-<!-- Divider -->
-<img src="./Readme/Animations/rainbow_divider.gif" height="30" width="1000" />
+<br/>
+<br/>
 
 <!-- About me section ends here -->
 
@@ -122,6 +122,8 @@
 	<img src="./Readme/Icons/cat.webp" height=80 />
 	<img src="./Readme/Animations/stats.gif">
 </p>
+<!-- Divider -->
+<img src="./Readme/Animations/rainbow_divider.gif" height="30" width="1000" />
 <p align="center">
 	<a href="https://github.com/abhi-aro">
 		<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhi-aro&theme=radical" width="600" alt="abhi-aro"/>
@@ -149,8 +151,8 @@
 
 <!-- GitHub Stats Section Ends here-->
 
-<!-- Divider -->
-<img src="./Readme/Animations/rainbow_divider.gif" height="30" width="1000" />
+<br/>
+<br/>
 
 <!-- Visitors Section Starts here -->
 
@@ -160,6 +162,8 @@
 		<!-- <img alt="spongebob" height="100px" src="https://c.tenor.com/P7zWdgA3E2EAAAAi/spunchbob-the-g.gif" /> -->
 		<img alt="spongebob" height="100px" src="./Readme/Animations/spongebob.gif" />
 		<img src="./Readme/Animations/visitors.gif">
+		<!-- Divider -->
+		<img src="./Readme/Animations/rainbow_divider.gif" height="30" width="1000" />
 	</p>
 	<img height="160px" alt="GIF" src="./Readme/Animations/coder.webp">
 
