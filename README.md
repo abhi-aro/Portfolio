@@ -1,6 +1,6 @@
 <!-- Greetings text: https://readme-typing-svg.demolab.com/demo/ make your own -->
 <h1 align="center">
-	Hi <img src="./Readme/Icons/hi.gif" width="30px">, I'm 
+	Hi <img src="./Readme/Icons/Hi.gif" width="30px">, I'm 
 	<br/>
 	<a href="https://abhi-aro.tech" style="color:#3AC2DA;">
 		<img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&size=30&duration=3000&pause=500&color=3AC2DA&center=true&vCenter=true&width=400&height=40&lines=Abhishek;Full+Stack+Developer;Always+Learning+New+Things;Gamer;Open+Source+Enthusiast" alt="Abhishek" />
@@ -12,14 +12,18 @@
 	<img align="center" style="border-radius:40px;" src="./Readme/Animations/Readme.gif" alt="readme" />
 </a>
 
+<br/>
+<br/>
+
 <!-- About me section starts here -->
 <!-- About me heading -->
-<span>
+<p align=center>
 	<samp style="font-size:40px;">
 		<!-- <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> -->
-		<img src="./Readme/Animations/dancing_star.webp" height=30 /> About Me
+		<img src="./Readme/Animations/dancing_star.webp" height=60 />
+		<img src="./Readme/Animations/about_me.gif">
 	</samp>
-</span>
+</p>
 
 <!-- Divider -->
 <img src="./Readme/Animations/rainbow_divider.gif" height="30" width="1000" />
@@ -67,7 +71,7 @@
 
 <!-- Looking for -->
 -   <span>
-    <img src="./Readme/Icons/earth.gif" height="16" />
+    <img src="./Readme/Icons/Earth.gif" height="16" />
 	Looking for <b style="color:orange;">Open Source</b> projects to contribute to.
     </span>
 
