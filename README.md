@@ -12,14 +12,18 @@
 	<img align="center" style="border-radius:40px;" src="./Readme/Animations/Readme.gif" alt="readme" />
 </a>
 
+<br/>
+<br/>
+
 <!-- About me section starts here -->
 <!-- About me heading -->
-<span>
+<p align=center>
 	<samp style="font-size:40px;">
 		<!-- <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> -->
-		<img src="./Readme/Animations/dancing_star.webp" height=30 /> About Me
+		<img src="./Readme/Animations/dancing_star.webp" height=60 />
+		<img src="./Readme/Animations/about_me.gif">
 	</samp>
-</span>
+</p>
 
 <!-- Divider -->
 <img src="./Readme/Animations/rainbow_divider.gif" height="30" width="1000" />
